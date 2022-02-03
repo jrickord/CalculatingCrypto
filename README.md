@@ -11,7 +11,7 @@ build status: complete Issues: None known as of 2-3-2022
 
 Included Files:
 
-Data Source Link -> includes link to Kaggle Dataset used for analysis
-MainFile -> Jupyter Notebook illustrating visualizattion techniques, n-gram modeling techniques, and model selection/evaluation
-Final Report -> Research report detailing findings from analysis in formal format with attached Q&A.
+Data Source Link -> includes link to Kaggle Dataset used for analysis<br>
+MainFile -> Jupyter Notebook illustrating visualizattion techniques, n-gram modeling techniques, and model selection/evaluation<br>
+Final Report -> Research report detailing findings from analysis in formal format with attached Q&A.<br>
 FAQ: Please see final report for Q&A and further discussions.
